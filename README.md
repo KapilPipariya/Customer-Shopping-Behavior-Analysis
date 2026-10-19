@@ -86,7 +86,7 @@ MySQL Workbench was used to answer business questions through SQL queries, aggre
 ## 📈 Power BI Dashboard
 
 Microsoft Power BI was used to develop an interactive dashboard to present the findings of the customer shopping behavior analysis.
-
+![Power BI Dashboard](dashboard.png)
 The dashboard is designed to make purchasing trends, customer preferences, and revenue patterns easier to understand through visualizations and summary metrics.
 
 ### Dashboard Features
@@ -151,26 +151,19 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── README.md
 │
-├── Dataset/
-│   └── customer_shopping_behavior.csv
+├── customer_shopping_behavior.csv
 │
-├── Excel/
-│   └── cleaned_dataset.xlsx
+├── cleaned_dataset.xlsx
 │
-├── SQL/
-│   └── customer_analysis_queries.sql
+├── customer_analysis_queries.sql
 │
-├── PowerBI/
-│   └── customer_behavior_dashboard.pbix
+├── customer_behavior_dashboard.pbix
 │
-├── Report/
-│   └── project_summary_report.pdf
+├── project_summary_report.pdf
 │
-├── Presentation/
-│   └── project_presentation.pdf
+├── project_presentation.pdf
 │
-└── images/
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ## 🧠 Skills Demonstrated
