@@ -202,8 +202,8 @@ By preparing customer purchase data, investigating business questions, and visua
 
 Aspiring Data Analyst
 
-* **GitHub:** [Add your GitHub profile URL]
-* **LinkedIn:** [Add your LinkedIn profile URL]
+* **GitHub:** [https://github.com/KapilPipariya]
+* **LinkedIn:** [https://www.linkedin.com/in/kapil-pipariya-4689053b1]
 
 ---
 
